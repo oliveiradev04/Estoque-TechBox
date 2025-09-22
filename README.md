@@ -42,7 +42,7 @@ src/
 
 ## 💡 Exemplo de Uso
 ```
-Digite seu nome completo: Allan
+Digite seu nome completo: Allan Geraldo Cardoso
 Digite seu email: Allan@techbox.com.br
 Digite sua senha: ****
 Cadastro realizado com sucesso!
