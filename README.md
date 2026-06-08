@@ -1,4 +1,4 @@
-## 🖥️ Sistema de Estoque de Periféricos para Com – EstoqueTechBox
+## 🖥️ Sistema de Estoque de Periféricos – EstoqueTechBox
 
 ## 📄 Visão Geral
 Este projeto é um sistema simples de controle de estoque de periféricos gamers para uma empresa fictícia chamada: TechBox. Permite cadastrar produtos, listar, detalhar informações e remover itens do estoque. Foi desenvolvido em Java utilizando conceitos básicos de programação orientada a objetos.
